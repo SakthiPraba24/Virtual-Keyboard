@@ -58,8 +58,8 @@ python main.py
 - Keys are simulated with pynput.keyboard.Controller
 
 ### Demo
-  ![Virtual Keyboard]() 
+  ![Virtual Keyboard](https://github.com/user-attachments/assets/c45075c7-f2bf-48f4-9370-6ce68098ddb9) 
 
-  <img src="[image.png](https://github.com/user-attachments/assets/c45075c7-f2bf-48f4-9370-6ce68098ddb9)" alt="Alt text" width="400" height="200"/>
+  
 
 
