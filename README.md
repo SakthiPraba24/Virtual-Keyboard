@@ -56,3 +56,7 @@ python main.py
 - If thumb + index finger distance < threshold → key press triggered
 
 - Keys are simulated with pynput.keyboard.Controller
+
+### Demo
+  ![Virtual Keyboard](https://github.com/user-attachments/assets/c45075c7-f2bf-48f4-9370-6ce68098ddb9)
+
